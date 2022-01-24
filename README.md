@@ -20,4 +20,5 @@ print(contextual_loss(b, b, 0.1))
 
 # Reference
 https://github.com/roimehrez/contextualLoss
+
 https://github.com/z-bingo/Contextual-Loss-PyTorch
